@@ -1,2 +1,2 @@
 # Aflamy
-Movie website depending on API from MovieDB  with  angular  
+a movie store website with MovieDp API  using Angular 
